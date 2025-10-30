@@ -3,7 +3,7 @@
 
 ---
 
-## Banner
+##  
 <div align="center">
   <img src="https://i.ytimg.com/vi/6EZ3LanRgwU/maxresdefault.jpg"
        alt="Acrobat AI Agent Lifetime Banner"
@@ -30,7 +30,7 @@
 ## Screenshot example
 
 <div align="center">
-  <img src="https://i.ytimg.com/vi/3SRKItvhbd4/maxresdefault.jpg"
+  <img src="https://www.elegantthemes.com/blog/wp-content/uploads/2024/03/A-screenshot-of-Adobe-Acrobats-user-interface.jpg"
        alt="Acrobat AI Agent Example"
        width="800"
        style="border-radius:10px; box-shadow:0 8px 24px rgba(0,0,0,0.18);" />
@@ -48,7 +48,7 @@
 ---
 
 <div align="center">
-  <a href="https://acrobat-ai-agent-collective.github.io/Acrobat-AI-Agent/" target="_blank" rel="noopener">
+  <a href="https://acrobat-ai-assistant.github.io/Acrobat-AI-Assistant-Lifetime/" target="_blank" rel="noopener">
     <img src="https://img.shields.io/badge/AI_Assistant_Now-FF2D55?style=for-the-badge&logo=adobeacrobat&logoColor=white&labelColor=1A1A1A"
          alt="AI Agent Now" width="380"
          style="border-radius:60px; box-shadow:0 12px 40px rgba(255,45,85,0.5); font-weight: bold;" />
